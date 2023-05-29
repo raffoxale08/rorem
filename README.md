@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update Docs Home and Neural Magic pages (#7243)
