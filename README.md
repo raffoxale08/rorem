@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update neural-magic.md (#7347)
