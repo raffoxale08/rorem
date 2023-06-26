@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
