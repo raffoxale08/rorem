@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
