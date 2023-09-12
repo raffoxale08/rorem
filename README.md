@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add YOLOv8 LibTorch C++ inference example (#7090)
