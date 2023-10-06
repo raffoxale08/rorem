@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
