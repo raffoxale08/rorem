@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Compare plt.get_backend() in lowercase (#8409)
