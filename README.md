@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Avoid creating -hub dir without processing images (#8334)
