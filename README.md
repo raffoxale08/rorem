@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
