@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update Docs language dropdown height (#6927)
