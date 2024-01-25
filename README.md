@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix OpenVINO links (#7930)
