@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Fix PIL show() and save() (#8202)
