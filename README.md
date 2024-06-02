@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Avoid creating -hub dir without processing images (#8334)
