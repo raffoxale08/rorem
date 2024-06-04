@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Docs partial mdformat improvements (#7378)
