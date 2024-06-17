@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+ultralytics 8.0.229 add model.embed() method (#7098)
