@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Rename model_id to model.id (#8447)
