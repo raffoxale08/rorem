@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add YOLOv8 LibTorch C++ inference example (#7090)
