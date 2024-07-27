@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add type hinting to explorer.py (#7388)
