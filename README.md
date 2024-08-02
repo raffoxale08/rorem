@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix xyxyxyxyn calculation in obb result (#8188)
